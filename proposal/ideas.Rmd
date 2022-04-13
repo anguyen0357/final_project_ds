@@ -9,10 +9,19 @@ output: html_notebook
 
 Include a brief **introduction or motivation** here
 
+I will be working alone on this project and that my topic will be on fatal motor vehicle accidents in the United States since I want to know what factors are affecting these crash deaths.
+
 ## Section 2. Data Analysis Plan
 
-List any **initial questions** you plan to explore in this project. 
+List any **initial questions** you plan to explore in this project.
+
+1. Which states had the highest percentage of drivers involved in fatal collisions due to speeding?
+2. Which states had the highest percentage of drivers involved in fatal collisions due to alcohol?
+3. Which states had the highest fatal collisions?
+4. Which states had the highest car insurance premiums and compare that to the number of fatal collisions?
 
 ## Section 3. Data
 
 Include a brief **description of your dataset** (source, available attributes, format, etc.)
+
+My dataset had two sources that came from the National Highway Traffic Safety and the National Association of Insurance Commissioners. My dataset is in a tidy format since each variable has its own column and that each observation has its own row. My dataset also has eight variable and 51 observations.
